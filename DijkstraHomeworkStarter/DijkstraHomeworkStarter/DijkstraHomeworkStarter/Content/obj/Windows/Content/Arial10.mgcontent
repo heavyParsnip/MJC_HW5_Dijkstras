@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/kimbe/OneDrive/Documents/Visual Studio 2017/Projects/MJC_HW5_Dijkstras/DijkstraHomeworkStarter/DijkstraHomeworkStarter/DijkstraHomeworkStarter/Content/Arial10.spritefont</SourceFile>
+  <SourceTime>2019-04-08T10:51:48-04:00</SourceTime>
+  <DestFile>C:/Users/kimbe/OneDrive/Documents/Visual Studio 2017/Projects/MJC_HW5_Dijkstras/DijkstraHomeworkStarter/DijkstraHomeworkStarter/DijkstraHomeworkStarter/Content/bin/Windows/Content/Arial10.xnb</DestFile>
+  <DestTime>2019-12-09T18:39:52.4176996-05:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-12-08T11:35:54-05:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-12-08T11:35:54-05:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
